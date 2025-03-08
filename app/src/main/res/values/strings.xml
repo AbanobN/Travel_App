@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Travel_App</string>
+    <string name="explorer_world">Explorer The \nWorld with us</string>
+    <string name="lorem">Lorem ipusm dolor sit amet, consectetur\n do eiusmod tempor.</string>
+    <string name="get_started">Get Started</string>
+    <string name="log_in">Login</string>
 </resources>

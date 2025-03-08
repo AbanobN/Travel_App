@@ -12,6 +12,7 @@ constraintlayout = "2.1.4"
 viewpager2 = "1.1.0"
 googleGmsGoogleServices = "4.4.2"
 firebaseDatabase = "21.0.0"
+kotlin = "1.9.24"
 
 [libraries]
 chip-navigation-bar = { module = "com.github.ismaeldivita:chip-navigation-bar", version.ref = "chipNavigationBar" }
@@ -29,4 +30,5 @@ firebase-database = { group = "com.google.firebase", name = "firebase-database",
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
 google-gms-google-services = { id = "com.google.gms.google-services", version.ref = "googleGmsGoogleServices" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 
