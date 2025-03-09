@@ -4,4 +4,14 @@
     <string name="lorem">Lorem ipusm dolor sit amet, consectetur\n do eiusmod tempor.</string>
     <string name="get_started">Get Started</string>
     <string name="log_in">Login</string>
+    <string name="search_placeholder">Street, Address, City...</string>
+    <string name="search">Search</string>
+    <string name="enjoy">Enjoy Your Journet\nWithout Limits</string>
+    <string name="see_all">See All</string>
+    <string name="popular_stays">Popular Stays</string>
+    <string name="home">Home</string>
+    <string name="explorer">Explorer</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="profile">Profile</string>
+    <string name="title">Title</string>
 </resources>
